@@ -1,6 +1,6 @@
 # Implementación del algoritmo Dijkstra
 
-Implementación del algoritmomo Dijkstra para obtener el camino más corto entre nodos de manera visual en Java.
+Implementación del algoritmo Dijkstra para obtener el camino más corto entre nodos de manera visual en Java.
 
 ## Funcionamiento
 -----
